@@ -1,0 +1,11 @@
+Independent & Dependent Xpath
+for realmeC30 Mobile=
+//div[text ()='realme C30s (Stripe Blue, 32 GB']
+//div[text ()='realme C30s (Stripe Blue, 32 GB']/../..
+//div[text ()='realme C30s (Stripe Blue, 32 GB']/..//div[@class='_30jeq3_1_WHN1']
+
+
+For Nothing(1) Mobile=
+//span[text()='Nothing Phone (1) (Black, 256 GB)']
+//span[text()='Nothing Phone (1) (Black, 256 GB)']/../../..
+//span[text()='Nothing Phone (1) (Black, 256 GB)']/../../..//Div[@class='_30jeq3_16H6d']
